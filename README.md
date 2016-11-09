@@ -1,2 +1,2 @@
-# SlimPhp
-REST API in SlimPhp a framework of PHP.
+# SlimPhp a framework of PHP
+REST API in SlimPhp with Angularjs.
